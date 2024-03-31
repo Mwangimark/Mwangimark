@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning : Artificial Intelligence , Machine Learning and 100days of Python language
 - 💞️ I’m looking to collaborate on any project involving AI,Machine Learning or web development
 - 📫 How to reach me: Email:"markcosmars2000@gmail.com", git hub account
-- 😄 Pronouns: ...
+- 😄 Pronouns: He / Him
 - ⚡ Fun fact: "Did you know? The first computer virus was created in 1983 and was called the 'Elk Cloner.'
   It infected Apple II systems through floppy disks and displayed a short poem to users.
   Since then, viruses have evolved to become a major cybersecurity concern in the digital age."
