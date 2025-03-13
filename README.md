@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mwangimark
 - 👀 I’m interested in DataScience/analyst and Web development
   using React || Express|| Node || SQL
-- 🌱 I’m currently learning : Artificial Intelligence , Machine Learning and 100days of Python language
+- 🌱 I’m currently learning : Data Science, Artificial Intelligence and Machine Learning
 - 💞️ I’m looking to collaborate on any project involving AI,Machine Learning or web development
 - 📫 How to reach me: Email:"markcosmars2000@gmail.com", git hub account
 - 😄 Pronouns: He / Him
